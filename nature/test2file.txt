@@ -1,0 +1,8 @@
+Build got succes doing follwoing things.
+
+Check for below command in Jenkins Server in linux Env:`whereis git`
+you will get the path like /usr/bin/git
+
+Place it in Manage jenkin>Global Tool Configuration> under git path mention /usr/bin/git
+
+Rerun job again
