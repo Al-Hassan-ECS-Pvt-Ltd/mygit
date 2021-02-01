@@ -6,3 +6,5 @@ you will get the path like /usr/bin/git
 Place it in Manage jenkin>Global Tool Configuration> under git path mention /usr/bin/git
 
 Rerun job again
+
+relooking it again
